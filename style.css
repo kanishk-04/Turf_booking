@@ -77,6 +77,9 @@ nav{
 }
 
 @media screen and (max-width: 950px){
+    nav{
+        justify-content: space-between;
+    }
     .nav-links{
         position: absolute;
         right: 0px;
