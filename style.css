@@ -43,7 +43,7 @@ nav{
 }
 
 .nav-links{
-    width: 30%;
+    width: 40%;
     display: flex;
     justify-content: space-between;
     text-transform: capitalize;
